@@ -1,0 +1,11 @@
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\TestCalculator.dll
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\Calculator.exe
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\nunit.framework.dll
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\Calculator.pdb
+C:\dev\ConsoleApplication1\TestCalculator\bin\Debug\nunit.framework.xml
+C:\dev\ConsoleApplication1\TestCalculator\obj\Debug\TestCalculator.csproj.AssemblyReference.cache
+C:\dev\ConsoleApplication1\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+C:\dev\ConsoleApplication1\TestCalculator\obj\Debug\TestCalc.8BB8F692.Up2Date
+C:\dev\ConsoleApplication1\TestCalculator\obj\Debug\TestCalculator.dll
+C:\dev\ConsoleApplication1\TestCalculator\obj\Debug\TestCalculator.pdb
